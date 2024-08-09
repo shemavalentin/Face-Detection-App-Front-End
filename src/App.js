@@ -12,7 +12,7 @@ import Rank from "./components/Rank/Rank";
 import "./App.css";
 
 // const app = new Clarifai.App({
-//   apiKey: 'c4a2f601353947ef93a79b71588a0f7a'
+//   apiKey: 'c4a2f601353947e f93a79b71588a0f7a'
 
 // });
 const returnClarifaiRequestOptions = (imageUrl) => {
